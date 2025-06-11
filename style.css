@@ -1,3 +1,23 @@
+header{
+background-color: #41D42A;
+width: 1280px;
+height: 101px;
+}
+
+section{
+background-color: #4ED47D;
+width: 1280px;
+height: 609px;
+}
+
+footer{
+background-color: #41D42A~;
+width: 1280px;
+height: 82px;
+}
+
+
+
 .01{
 width: 127px;
 height: 99px;
